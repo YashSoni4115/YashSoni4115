@@ -6,7 +6,7 @@
 ```python
 class Yash:
   __init__(self):
-    self.age= 20
+    self.age = 20
 
     self.hobbies = [
       'gym',
