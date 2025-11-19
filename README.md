@@ -26,11 +26,11 @@ I'm a Data Science student at Laurier 🎓 with experience working at Laurier an
 
 ## 🔗 Connect With Me
 
-<a href="https://www.linkedin.com/in/yash-soni-56bb48267/" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:yashsonig@gmail.com" alt="Email">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
+<p>
+  <a href="https://www.linkedin.com/in/yash-soni-56bb48267/" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:yashsonig@gmail.com" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
