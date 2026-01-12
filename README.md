@@ -22,7 +22,7 @@ class Yash:
 ```
 
 ## ⭐ About Me
-I'm a Data Science student at Laurier 🎓 with experience working at Manulife, Laurier and RBC. I work with Python, SQL, and PySpark 🐍 to build analytics pipelines and make sense of real world data.
+I'm a Data Science student at Laurier 🎓 with experience working at Manulife and RBC. I work with Python, SQL, and PySpark 🐍 to build analytics pipelines and make sense of real world data.
 
 ## 🔗 Connect With Me
 
