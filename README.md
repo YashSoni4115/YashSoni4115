@@ -24,6 +24,8 @@ class Yash:
 ## ⭐ About Me
 I'm a Data Science student at Laurier 🎓 with experience working at Manulife and RBC. I work with Python, SQL, and PySpark 🐍 to build analytics pipelines and make sense of real world data.
 
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=YashSoni4115&show_icons=true&theme=tokyonight)   ![GitHub Streak](https://streak-stats.demolab.com/?user=YashSoni4115&theme=tokyonight)
+
 ## 🔗 Connect With Me
 
 <p>
