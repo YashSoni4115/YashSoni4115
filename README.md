@@ -18,7 +18,7 @@ class Yash:
     self.special_move = 'debugging with print statements'
 
     self.white_monster = True
-    self.mood = ':)' if self.white_monster else 'why did I even open Cursor'
+    self.mood = ':)' if self.white_monster else 'why did I even open Claudr'
 ```
 
 ## ⭐ About Me
